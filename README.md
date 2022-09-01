@@ -1,5 +1,13 @@
 # T3
 
+Nom du groupe :
+Code du groupe : 
+Participants :
+
+- p1
+- p2
+- p3
+
 ## Méta-Todo
 
 - [ ] Mettre en place son GIT et préparer les milestones
@@ -7,10 +15,12 @@
 - [ ] Concevoir un poster qui décrit cet objectif pédagogique 
 - [ ] Définir le type de jeu et les mécanismes d'apprentissage (Septembre)
 - [ ] Définir la liste des principales fonctionnalités 
-- [ ] Développer ces fonctionnalités (Octobre)
+- [ ] Développer ces fonctionnalités 
+- [ ] Evaluation à mi-parcours (Octobre)
 - [ ] Tester et équilibrer 
 - [ ] Choisir la Licence (Novembre)
-- [ ] Présenter son jeu (Décembre)
+- [ ] Finaliser le git et produire la documentation
+- [ ] Présenter son jeu et le faire évaluer (Décembre)
 
 ## Objectif pédagogique
 
@@ -24,4 +34,6 @@ Créer une issue par fonctionnalités.
 - [ ] fun 2
 
 ## Justification du choix de la Licence
+
+## Captures d'écran
 
